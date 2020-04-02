@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\bin\ShoppingCartOriginal.dll.config
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\bin\ShoppingCartOriginal.dll
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\bin\ShoppingCartOriginal.pdb
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\obj\Debug\ShoppingCartOriginal.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\obj\Debug\ShoppingCartOriginal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\obj\Debug\ShoppingCartOriginal.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\obj\Debug\ShoppingCartOriginal.dll
+C:\Users\Administrator\source\repos\ShoppingCartOriginal\ShoppingCartOriginal\obj\Debug\ShoppingCartOriginal.pdb
